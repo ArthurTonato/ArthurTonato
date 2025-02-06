@@ -42,3 +42,11 @@
 </div>
 
 ###
+
+<h3 align="left">Contact</h3>
+
+###
+
+<p align="left">https://www.linkedin.com/in/arthur-tonato-4761868a/<br>arthurtonato@gmail.com</p>
+
+###
